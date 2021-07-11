@@ -1,1 +1,3 @@
-In linux operation system, check hard disk is existed or not. How many partitions is created? How murch size of it?
+1. Server
+2. Gateway
+3. Controler device, sensor
